@@ -11,9 +11,17 @@
   "theme_color": "#0a100d",
   "icons": [
     {
-      "src": "./1794858946808(1).jpg",
-      "sizes": "560x543",
-      "type": "image/jpeg"
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
+
